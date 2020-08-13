@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Weather</string>
+    <string name="weather_sunny">&#xf00d;</string>
+    <string name="weather_cloudy">&#xf013;</string>
+    <string name="weather_rainy">&#xf019;</string>
+    <string name="weather_snowy">&#xf01b;</string>
+    <string name="weather_thunder">&#xf01e;</string>
+    <string name="weather_drizzle">&#xf01c;</string>
+    <string name="city">Город</string>
+    <string name="icon">#</string>
+    <string name="name_temper">Температура</string>
+    <string name="current_temper">+20</string>
+    <string name="name_temper_feel">Ощущается как</string>
+    <string name="temper_feel">+17</string>
+
 </resources>
